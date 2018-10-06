@@ -1,0 +1,7 @@
+C:\Users\Robert\AppData\Local\Temporary Projects\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\Robert\Desktop\Scripts\C#\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\Robert\Desktop\Scripts\C#\Jarvis\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Scripts\C#\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\Robert\Desktop\Scripts\C#\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\Robert\Desktop\Scripts\C#\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\Robert\Desktop\Scripts\C#\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
